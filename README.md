@@ -1,4 +1,3 @@
-
 #### :headphones: Spotify
 
-![Spotify](https://novatorem.wi2l.vercel.app/api/spotify)
+<img src="https://novatorem.wi2l.vercel.app/api/spotify">
