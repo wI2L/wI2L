@@ -1,3 +1,3 @@
 #### :headphones: Spotify
 
-<img src="https://spotify.wi2l.pw/api/spotify">
+<img src="https://novatorem-wi2l.vercel.app/api/spotify">
